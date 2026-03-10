@@ -29,12 +29,15 @@
 ###
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=VladimirVaize&theme=github_dark_dimmed&show_icons=true&hide_border=true&count_private=true&locale=ru">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VladimirVaize&theme=github_dark_dimmed&show_icons=true&hide_border=true&count_private=true&locale=ru">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=VladimirVaize&layout=compact&theme=github_dark_dimmed&show_icons=true&hide_border=true&count_private=true&locale=ru">
 </p>
 
 <p align="center">
-  <img src="http://trophy.ryglcloud.net/?username=VladimirVaize&theme=dark_dimmed&no-frame=true&margin-w=4">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=VladimirVaize&theme=github_dark_dimmed&show_icons=true&hide_border=true&count_private=true&locale=ru">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VladimirVaize&theme=github_dark_dimmed&show_icons=true&hide_border=true&count_private=true&locale=ru">
 </p>
 
 <p align="center">
@@ -42,6 +45,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=VladimirVaize&layout=compact&theme=github_dark_dimmed&show_icons=true&hide_border=true&count_private=true&locale=ru">
+  <img src="http://trophy.ryglcloud.net/?username=VladimirVaize&theme=dark_dimmed&no-frame=true&margin-w=4">
 </p>
 
