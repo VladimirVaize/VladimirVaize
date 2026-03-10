@@ -48,10 +48,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=VladimirVaize&theme=github_dark_dimmed&show_icons=true&hide_border=true&count_private=true&locale=ru">
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VladimirVaize&theme=github_dark_dimmed&show_icons=true&hide_border=true&count_private=true&locale=ru">
 </p>
 
