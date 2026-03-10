@@ -1,3 +1,12 @@
+<h1 align="center">
+  Привет! Я Владимир 👋
+  Я создаю игры на Unity и пишу на C#.
+</h1>
+<!-- Readme Typing SVG (вставьте сюда ваш код с herokuapp) -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Unity+Developer;C%23+Enthusiast;Game+Designer;Indie+Game+Creator" alt="Typing SVG" />
+</p>
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
   <img width="12" />
@@ -27,6 +36,12 @@
 </div>
 
 ###
+
+<!--<h3 align="center">📫 Связаться со мной:</h3>
+<p align="center">
+  <a href="https://t.me/vvvaize"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+  <a href="mailto:volood20.30@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>-->
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=VladimirVaize&layout=compact&theme=github_dark_dimmed&show_icons=true&hide_border=true&count_private=true&locale=ru">
