@@ -55,7 +55,7 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VladimirVaize&theme=city_lights&locale=ru">
 </p>
 
-<p align="center">
+<!--<p align="center">
   <img src="http://trophy.ryglcloud.net/?username=VladimirVaize&theme=dark_dimmed&no-frame=true&margin-w=4">
-</p>
+</p>-->
 
